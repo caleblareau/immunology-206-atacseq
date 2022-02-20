@@ -5,3 +5,4 @@ https://bit.ly/atac206
 
 https://s3-us-west-1.amazonaws.com/chang-public-data/2016_NatGen_ATAC-AML/hub.txt
 
+Data was downloaded from here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74912
